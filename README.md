@@ -92,11 +92,11 @@ I'm Ayush, a developer who loves **exploring new technologies, experimenting wit
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=AUXID-01\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=AUXID-01\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=AUXID-01\&theme=dark\&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AUXID-01\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AUXID-01\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ---
 
